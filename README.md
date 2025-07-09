@@ -11,7 +11,7 @@ A simple and responsive landing page for a fictional cafe.
 - FontAwesome Icons
 
 ## 🔍 Live Preview
-[Live Demo](https://Amitbind2301/Cafe-responsive-landing-page/)
+[Live Demo](https://Amitbind2301/Cafe-responsive-landing-page)
 
 ## 📸 Screenshots
 ![Header section](image.png)
