@@ -14,7 +14,7 @@ A simple and responsive landing page for a fictional cafe.
 [Live Demo](https://cafe-responsive-landing-page.netlify.app/)
 
 ## 📸 Screenshots
-![Header section](assets/images/image1.png)
+![Header section](assets/images/image.png)
 
 ![About Section](assets/images/image2.png)
 
