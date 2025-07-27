@@ -7,7 +7,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background-color: #f7f7f7;
+  background-color: #e77865;
   color: #333;
   font-family: "Poppins", sans-serif;
 }
@@ -301,7 +301,7 @@ body {
 
 .menu {
   padding: 60px;
-  background-color: #fceede;
+  background-color: #f5cc9e;
   text-align: center;
   margin: 30px;
 }
@@ -373,7 +373,7 @@ body {
 }
 
 .footer {
-  background-color: #fae8d9;
+  background-color: #f7d5ba;
   margin-top: 15px;
   color: #888;
   padding: 20px;
