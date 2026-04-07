@@ -613,7 +613,7 @@ body {
 
   .footer__item h4 {
     font-size: 16px;
-    margin-bottom: 5px;
+    margin-bottom: 6px;
   }
 
   .footer__item-link {
@@ -688,6 +688,6 @@ body {
 /* Responsive fix only */
 @media (max-width: 768px) {
   .menu__img {
-    height: 160px;
+    height: 161px;
   }
 }
